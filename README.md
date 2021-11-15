@@ -1,1 +1,11 @@
-# wordpress-tools
+* [Hide a defined plugin from the WP admin area.](hide-plugin.php)
+* [Custom search function that encompasses ACF/advanced custom fields.](custom-search-acf.php)
+* [Export all core WordPress data (posts, pages, attachments, comments, tags, categories and users) to a JSON formatted file.](export_to_json.php)
+* [Use the Google Places API to render a Google My Business reviews badge on a WordPress site using shortcodes.](mybusiness-reviews.php)
+* [Write log to wordpress debug.log](wp-logger.php)
+* [A feed plugin for WordPress](xml-feed.php)
+* [Plugin to create custom post types with custom taxonomies and custom meta fields](ctf.php)
+* [WordPress Bootstrap Carousel custom functions](bootstrap-carousel.php)
+* [Function to get first and latest post for WordPress](fal.php)
+* [Function to remove the Yoast metabox for all roles except Admins](remove-meta.php)
+* [Weekly dynamic calendar with custom post types, custom date fields and caching ](calendar.php)
